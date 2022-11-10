@@ -3,8 +3,6 @@
     "description": "Build 3D tubes to document the material process.",
     "homepage": "https://icarus-consult.de",
     "license": "non-free",
-    "url": [
-        "file://S:/PROMPTLY/Wudoku.zip"
-    ],
+    "url": "S:/PROMPTLY/Wudoku.zip",
     "extract_to": ""
 }
