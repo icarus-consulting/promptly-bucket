@@ -4,7 +4,7 @@
     "homepage": "https://icarus-consult.de",
     "license": "non-free",
     "url": [
-        "S:/PROMPTLY/Wudoku.zip"
+        "file://S:/PROMPTLY/Wudoku.zip"
     ],
     "extract_to": ""
 }
