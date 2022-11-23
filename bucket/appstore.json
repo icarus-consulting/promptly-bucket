@@ -3,7 +3,7 @@
     "description": "The promptly app store as windows app",
     "homepage": "https://icarus-consult.de",
     "license": "non-free",
-    "url": "S:/PROMPTLY/promptly-appstore/1.0.0/promptly-appstore.zip",
+    "url": "S:/PROMPTLY/promptly-appstore/1.0.0/promptly-appstore_v1.0.0.zip",
     "shortcuts": [
         [
             "Promptly.AppStore.exe",
