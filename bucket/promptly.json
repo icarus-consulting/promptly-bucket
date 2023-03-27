@@ -1,9 +1,9 @@
 {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "description": "A Command Palette for Tecnomatix Process Simulate",
     "homepage": "https://icarus-consult.de",
     "license": "non-free",
-    "url": "//promptly-apps.icarus-consult.local/Software/PROMPTLY/promptly/1.1.0/promptly_v1.1.0.zip",
+    "url": "//promptly-apps.icarus-consult.local/Software/PROMPTLY/promptly/1.2.0/promptly_v1.2.0.zip",
     "post_install":[
         "# Copy to emPower Directory",
         "$emPowerDir = \"\";",
