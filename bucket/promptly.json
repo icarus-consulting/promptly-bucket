@@ -16,7 +16,7 @@
         "            $eMPowerDir = $tempDir",
         "        }",
         "}",
-        if($emPowerDir -eq "" -and (Test-Path -Path 'HKLM:\\SOFTWARE\\Tecnomatix\\eMPower')) {",
+        "if($emPowerDir -eq \"\" -and (Test-Path -Path 'HKLM:\\SOFTWARE\\Tecnomatix\\eMPower')) {",
         "        Write-Host Single Tecnomatix is installed",
         "        $emPowerDir = Get-ItemPropertyValue -Path 'HKLM:\\SOFTWARE\\Tecnomatix\\eMPower' -Name eMPowerDir",
         "} else {",
